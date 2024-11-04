@@ -1,0 +1,51 @@
+.user-details-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+.user-details-title {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.user-details-info {
+    font-size: 18px;
+    color: #555;
+    margin: 8px 0;
+}
+
+.user-details-text,
+.user-details-warning {
+    font-size: 16px;
+    color: #666;
+    margin-top: 15px;
+    line-height: 1.5;
+}
+
+.user-details-warning {
+    color: #cc0000;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.back-link:hover {
+    background-color: #0056b3;
+}
+
