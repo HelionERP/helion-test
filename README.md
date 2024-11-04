@@ -14,7 +14,7 @@
 <h2>Backend</h2>
 <hr>
 <ul>
-  <li>To start the application: run <code>dotnet run</code></li>
+  <li>To start the application: <code>dotnet run</code></li>
 </ul>
 
 <h2>Tasks</h2>
